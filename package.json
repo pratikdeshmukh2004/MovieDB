@@ -2,7 +2,7 @@
   "name": "moviedb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pratikdeshmukh2004/MovieDB",
+  "homepage": "https://pratikdeshmukh2004.github.io/MovieDB/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
